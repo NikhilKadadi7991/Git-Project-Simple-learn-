@@ -1,0 +1,20 @@
+Easy Tech Solutions, a software company, is working on a web application project. The company aims to create certain HTML web pages for the Authentication flow in the project for their client. Developers and programmers in the project development team need to sync the code to GitHub to work on it collaboratively.
+
+Tools required: None
+
+Prerequisites: Git installation on the system
+
+Git commands
+GitHub account
+Expected Deliverables:
+
+Create a project folder in the local system
+Copy the HTML web pages as provided
+Create a ReadMe.md file
+Initialize the Git locally in your project folder
+Create a Code Repository in your Github account
+Add the remote origin to your local repository
+Add the source files to the local repository
+Check the status on Git
+Commit the code with a message
+Push the code to the remote repository on GitHub
